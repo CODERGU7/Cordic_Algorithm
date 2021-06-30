@@ -1,7 +1,7 @@
 `timescale 1ns / 100ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Harshal Chowdhary
 // 
 // Create Date: 18.07.2020 14:11:15
 // Design Name: 
