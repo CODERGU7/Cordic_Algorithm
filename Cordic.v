@@ -1,26 +1,21 @@
-`timescale 1ns / 100ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: Harshal Chowdhary
-// 
-// Create Date: 18.07.2020 14:11:15
-// Design Name: 
-// Module Name: Cordic
-// Project Name: 
-// Target Devices: 
-// Tool Versions: 
-// Description: 
-// 
-// Dependencies: 
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
+// Copyright (c) 2021 Harshal Chowdhary
+// ///////////////////////////////////////////////////////////////////////////////
+// File Name:      Traffic_Light_Controller.v
+// Type:           Module
+// Department:     Electronics and Communication Engineering, B.Tech
+// Author:         Harshal Chowdhary
+// Authors' Email: harshalchowdhary15@gmail.com
+// Create Date:    12:56:10 05/16/2021 
+// Module Name:    traffic_controller 
 //////////////////////////////////////////////////////////////////////////////////
-
+// Release History
+// 06/22/2021 Harshal Chowdhary Main_Algorithm
+//////////////////////////////////////////////////////////////////////////////////
+`timescale 1ns/1ps
 
 module Cordic(master_clk,angle,Xin,Yin,Xout,Yout);
+
 parameter BW=32;
 localparam iter=BW;
 input master_clk;
