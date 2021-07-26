@@ -1,13 +1,13 @@
 //////////////////////////////////////////////////////////////////////////////////
 // Copyright (c) 2021 Harshal Chowdhary
 // ///////////////////////////////////////////////////////////////////////////////
-// File Name:      Traffic_Light_Controller.v
+// File Name:      Cordic_Algorithm.v
 // Type:           Module
 // Department:     Electronics and Communication Engineering, B.Tech
 // Author:         Harshal Chowdhary
 // Authors' Email: harshalchowdhary15@gmail.com
 // Create Date:    12:56:10 05/16/2021 
-// Module Name:    traffic_controller 
+// Module Name:    cordic 
 //////////////////////////////////////////////////////////////////////////////////
 // Release History
 // 06/22/2021 Harshal Chowdhary Main_Algorithm
